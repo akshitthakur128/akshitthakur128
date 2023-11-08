@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akshitthakur128
+- 👋 Hi, I’m Akshit Thakur!
 - 👀 I’m interested in building web applications both frontend and backend  
 - 🌱 I’m currently learning cloud applications
 - 💞️ I’m looking to collaborate on any full stack projects
