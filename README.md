@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akshit Thakur!
-- 👀 I’m interested in building web applications both frontend and backend  
+- 👀 I’m interested in building web applications 
 - 🌱 I’m currently learning cloud applications
 - 💞️ I’m looking to collaborate on any full stack projects
 - 📫 How to reach me akshitthakur128@gmail.com
